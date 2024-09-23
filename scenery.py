@@ -133,7 +133,7 @@ def main():
     t.bgcolor("skyblue") # this is to make the background color skyblue
     t.speed(0) # this is so the drawing gets completed quickly
 
-    tw = float(input("Enter the width of the table: ")) # asking the user for their preferences
+    tw = float(input("Enter the width of the table(100-300):  ")) # asking the user for their preferences
     tc = input("Enter the color of the table: ") # asking the user for their preferences
     table(tw,tc)
 
