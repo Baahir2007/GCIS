@@ -1,3 +1,9 @@
+'''
+Baahir's Repository link - https://github.com/Baahir2007/GCIS.git
+Hishaam's Repository link - https://github.com/hb7464/hb7464 
+Munzir's Repository link - https://github.com/munzir1910/GCIS123 
+'''
+
 import turtle as t
 
 def table_leg(th,tc):
